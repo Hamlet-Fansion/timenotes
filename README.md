@@ -1,2 +1,0 @@
-# timenotes
-a pip project
